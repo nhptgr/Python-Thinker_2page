@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=capital
+GenericName=country and picture 
+Comment=example for the python 2page quick reference
+Exec=/usr/bin/capital
+Terminal=false
+Icon=/usr/share/icons/hicolor/scalable/apps/icon.svg
+Type=Application
+Categories=Development;

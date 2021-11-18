@@ -1,0 +1,9 @@
+Package: capital							
+Version: 1.0					
+Architecture: all				
+Essential: no					
+Priority: optional				
+Installed-Size: 7500				
+Depends: 	
+Maintainer: nh <netnhp[at]gmail.com>		
+Description: example for python 2page ref	
